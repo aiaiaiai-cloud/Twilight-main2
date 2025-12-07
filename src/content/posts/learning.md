@@ -1,9 +1,9 @@
 ---
-title: 常用网站速查笔记
-published: 2025-12-07
-tags: [网站, 工具, 开发, 笔记]
-category: 速查表
-draft: false
+title: Learning Data 学习笔记  # 补充标题（必填）
+published: 2025-12-07T00:00:00.000Z  # 补充发布时间（必填，ISO格式）
+tags: ["数据", "学习"]  # 可选，根据你的内容填写
+category: 学习笔记  # 可选
+draft: false  # 可选，设为false表示发布
 ---
 
 # 常用网站速查笔记  
