@@ -1,13 +1,10 @@
 ---
-title: 习概笔记
-published: 2021-12-02
-tags:
-  - 习概
-category: Examples
-draft: true
+title: Learning Data 习概  # 补充标题（必填）
+published: 2025-12-07T00:00:00.000Z  # 补充发布时间（必填，ISO格式）
+tags: ["学习"]  # 可选，根据你的内容填写
+category: 习概  # 可选
+draft: false  # 可选，设为false表示发布
 ---
-
-
 # 习思想
 
 ## 导论
