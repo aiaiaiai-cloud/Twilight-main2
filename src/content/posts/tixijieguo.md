@@ -1,19 +1,11 @@
 ---
-
 title: 计算机体系
-
 published: 2025-12-09
-
 tags:
-
-  - 学习笔记
-
-  - 计算机体系结构
-
+  - 学习笔记
+  - 计算机体系结构
 category: 课程
-
 draft: false
-
 ---
 
   
